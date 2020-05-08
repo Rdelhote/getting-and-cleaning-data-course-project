@@ -2,7 +2,7 @@
 
 ### Coursera Course Project - Week 4
 
-### Adjustments to original downloaded original
+### Required adjustments to original downloaded Dataset
 
 Merging the training and the test sets to create one data set.
 Extracting only the measurements on the mean and standard deviation for each measurement.
